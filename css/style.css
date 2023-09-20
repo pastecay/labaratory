@@ -1,0 +1,222 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1920px;
+}
+
+.manch{
+    width: 1920px;
+    height: 88px;
+    background: #E0E0E0;
+    margin-top: -28px;
+
+}
+
+.manch__box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+
+.manch__logo {
+
+    margin-left: 237px;
+}
+
+.logo {
+    margin: 30px;
+}
+
+.manch__box h3 {
+    margin-top: 30px;
+    margin-left: -253px;
+    margin-right: -438px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: -0.04em;
+    text-align: left;
+}
+
+.manch__box h4 {
+    color: #757575;
+    margin-top: 33px;
+    margin-right: -433px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: -0.04em;
+    text-align: left;
+}
+
+.vector {
+    width: 14px;
+    height: 14px;
+    padding: 6.61px, 3.31px, 3.93px, 3.76px;
+    margin-top: 37px;
+    margin-left: -16px;
+}
+
+.alex {
+    width: 107px;
+    margin-top: 20px;
+    height: 44px;
+    margin-right: -16px;
+
+}
+
+.btn {
+    margin-top: 36px;
+    color: #000000;
+    background: #E0E0E0;
+    border: none;
+    margin-left: -400px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.header {
+    width: 1920px;
+    height: 740px;
+}
+.header__boy {
+    margin-left: 965px;
+    margin-top: 145px;
+}
+.text1{
+    color: var(--primaty-cyan-dark, #2B788B);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 2.24px;
+    text-transform: uppercase;
+    margin-top: -540px;
+    margin-bottom: 24px;
+    margin-left: 270px;
+}
+.text2{
+    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: Dela Gothic One;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; 
+    letter-spacing: -2.24px;
+    margin-left: 270px;
+    width: 493px;
+    margin-bottom: 30px;
+    }
+.text3{
+    color: var(--primaty-grey-dark, #757575);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%; 
+    letter-spacing: -0.72px;
+    margin-left: 270px;
+    margin-bottom: 32px;
+}
+.btn1{
+    color: #2B788B;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; 
+    letter-spacing: -0.64px;
+    margin-left: 270px;
+    border: none;
+    border-radius: 12px;
+    width: 189px;
+    height: 45px;
+    background: var(--primaty-cyan-light, #C3DCE3);
+
+}
+.craft{
+  height: 740px;
+}
+.craft__people{
+    margin-left: 220px;
+}
+.craft__text{
+    margin-left: 1161px;
+    margin-top: -304px;
+}
+.text4{
+    color: var(--primaty-black, #000);
+    font-family: Dela Gothic One;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%; 
+    letter-spacing: -1.92px;
+    margin-bottom: 30px;
+    width: 417px;
+}
+.text5{
+    color: var(--primaty-grey-dark, #757575);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%; 
+    letter-spacing: -0.72px;
+    margin-bottom: 34px;
+}
+.btn2{
+    border-radius: 100px;
+    background: var(--primaty-cyan-light, #C3DCE3);
+    width: 189px;
+    height: 45px;
+    color: var(--primaty-cyan-dark, #2B788B);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; 
+    letter-spacing: -0.64px;
+    border: none;
+}
+.over{
+    display: flex;
+    background: var(--primaty-grey-light, #F6F5F4);
+    height: 100px;
+}
+.over__text{
+    display: flex;
+    margin-left: 1371px;
+}
+.text6{
+    margin-left: 30px;
+    margin-top: 30px;
+    color: var(--primaty-grey-dark, #757575);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; 
+}
+
+.text7{
+    margin-bottom: -45px;
+    margin-top: 36px;
+    margin-left: 50px;
+    color: var(--primaty-grey-dark, #757575);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    text-decoration-line: underline;
+}
